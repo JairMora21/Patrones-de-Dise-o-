@@ -1,3 +1,5 @@
+Créditos al curso [Patrones de diseño en C# Aplicados en ASP .Net](https://www.udemy.com/course/aprender-patrones-de-disenos-aplicados-en-asp-net/?couponCode=ST22FS22724) hecho por Héctor de Leon en Udemy
+
 ### Elementos complementarios 
 Documentacion adicional y mas detallada de cada patron de diseño [(Doc Word)](https://1drv.ms/w/s!AgoIQHtvH_IShbY4jst9pVloaKYgTg?e=oy0KvY).
 
